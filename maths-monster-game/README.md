@@ -6,15 +6,15 @@ A simple web-based game to practice maths skills.
 
 ```
 maths-monster-game/
-├── public/
-│   └── index.html
+├── index.html
 ├── styles/
 │   └── style.css
 ├── scripts/
 │   └── main.js
+├── vercel.json
 └── README.md
 ```
 
 ## Getting Started
 
-Open `public/index.html` in your browser to play the game. 
+Open `index.html` in your browser to play the game. 
